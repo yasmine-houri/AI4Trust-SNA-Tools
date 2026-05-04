@@ -1,4 +1,5 @@
-"The SNA Stack is composed by a set of tools that ground in and combine multiple network-analysis operations and/or visualisation, and translate them into easy-readable indications on the quality of digital contents that can be encountered online in platforms like YouTube and Telegram. Generally speaking, the SNA Stack is thought of as a suite of tools that exploit the rigor of social network analysis to inform users’ judgment on whether they are dealing with mis-/dis-/malinformation and on the best course of action to undertake."   
+"The SNA Stack is composed by a set of tools that ground in and combine multiple network-analysis operations and/or visualisation, and translate them into easy-readable indications on the quality of digital contents that can be encountered online in platforms like YouTube and Telegram. Generally speaking, the SNA Stack is thought of as a suite of tools that exploit the rigor of social network analysis to inform users’ judgment on whether they are dealing with mis-/dis-/malinformation and on the best course of action to undertake."     
+
 For more information, read : Apostolidis, E., Eleftheriadis, T., Ntrougkas, M., Goulas, A., Kontostathis, I., Gkalelis, N., Mezaris, V.,
 Lazega, E., Tubaro, P., Roth, C., Houri, Y., Lobbé, Q., Ascone, L., et al. (in press, 2026). D4.3
-Final explainability and transparency report and AI tools. AI4TRUST – Horizon Europe Project
+Final explainability and transparency report and AI tools. AI4TRUST – Horizon Europe Project.
