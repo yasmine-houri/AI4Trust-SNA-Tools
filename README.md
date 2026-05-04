@@ -1,5 +1,16 @@
-"The SNA Stack is composed by a set of tools that ground in and combine multiple network-analysis operations and/or visualisation, and translate them into easy-readable indications on the quality of digital contents that can be encountered online in platforms like YouTube and Telegram. Generally speaking, the SNA Stack is thought of as a suite of tools that exploit the rigor of social network analysis to inform users’ judgment on whether they are dealing with mis-/dis-/malinformation and on the best course of action to undertake."     
+# AI4Trust Tools for Misinformation Analysis
 
-For more information, read : Apostolidis, E., Eleftheriadis, T., Ntrougkas, M., Goulas, A., Kontostathis, I., Gkalelis, N., Mezaris, V.,
-Lazega, E., Tubaro, P., Roth, C., Houri, Y., Lobbé, Q., Ascone, L., et al. (in press, 2026). D4.3
-Final explainability and transparency report and AI tools. AI4TRUST – Horizon Europe Project.
+This repository hosts the **SNA tools** developed for the **AI4Trust project** to support adversarial online information mitigation across **YouTube, Telegram, and other online soucres**. The tools are designed for **fact-checkers, policy-makers, and researchers**.
+
+---
+
+## 📌 Tools Overview
+   Tool | Platform | Purpose | Status |
+ |------|----------|---------|--------|
+ | **[YouTube Relevance Evaluator (YTRE)](tools/YouTube Relevance Evaluator)** | YouTube | Prioritizes videos by engagement and community structure. | ✅ Integrated in AI4Trust Platform |
+ | **[Telegram Relevance Evaluator (TRE)](tools/Telegram Relevance Evaluator)** | Telegram | Prioritizes messages/channels by engagement and network metrics. | 🔧 Prototype |
+ | **[Reliability of Social Media (RSSM)](tools/Reliability State of Social Media)** | Telegram | Evaluates channel reliability using disinformation signals + network analysis. | 🔧 Prototype |
+ | **[Social Network Visualisation (SN_Viz)](tools/Social Network Visualisation)** | Telegram | Maps and visualizes channel networks and diffusion pathways. | 🔧 Prototype |
+ | **[Coordinated Inauthentic Behavior (CIB)](tools/Coordinated Inauthentic Behavior)** | YouTube, Telegram | Provides levels of priority of a video/channel based on the results of the YouTube Relevance Evaluator and Telegram Relevance evaluator providing insights on the presence of keyword-related content in both YouTube and Telegram. | 🔧 Prototype |
+ | **[Infodemic Observatory](tools/Infodemic Observatory)** | YouTube, Telegram, News | Integrates state-of-the-art domaine-level realiability labels, fitlers and aggregates content, creates visualisations and indicators. | [PLEASE CONFIRM INTEGRATION STATUS] |
+ | **[Recommendation Tool](tools/Recommendation Tool)** | [INPUT REQUIRED] |
